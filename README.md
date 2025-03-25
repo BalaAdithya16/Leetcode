@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BalaAdithya16/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/BalaAdithya16/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
