@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/BalaAdithya16/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/BalaAdithya16/Leetcode/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/BalaAdithya16/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BalaAdithya16/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/BalaAdithya16/Leetcode/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
