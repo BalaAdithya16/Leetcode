@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BalaAdithya16/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/BalaAdithya16/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/BalaAdithya16/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
