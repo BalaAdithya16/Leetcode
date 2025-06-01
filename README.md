@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BalaAdithya16/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BalaAdithya16/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/BalaAdithya16/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/BalaAdithya16/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/BalaAdithya16/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/BalaAdithya16/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BalaAdithya16/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/BalaAdithya16/Leetcode/tree/master/0283-move-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
