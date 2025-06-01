@@ -9,7 +9,7 @@ class Solution {
                 a+=s.charAt(i);
             }
         }
-        d=a.toUpperCase();
+        d=a.toLowerCase();
         for(int i=d.length()-1;i>=0;i--){
             b+=d.charAt(i);
         }
