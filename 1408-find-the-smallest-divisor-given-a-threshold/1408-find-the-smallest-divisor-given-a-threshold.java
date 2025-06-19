@@ -1,31 +1,28 @@
 class Solution {
-     public static boolean posi(int nums[],int thr,int k){
-            int temp=0;
-            for(int i=0;i<nums.length;i++){
-                  temp+=nums[i]/k;
-                  if(nums[i]%k!=0){
-                    temp++;
-                  }
+    public boolean isposi(int[] nums,int t,int n){
+        int sum=0;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i]/n;
+            if(nums[i]%n!=0){
+                sum++;
             }
-        if(temp<=thr){
+        }
+        if(sum<=t){
             return true;
         }
-
-    return false;
+        return false;
     }
     public int smallestDivisor(int[] nums, int threshold) {
-    Arrays.sort(nums);
-    int l=1;
-    int r=nums[nums.length-1];
-    while(l<=r){
-        int mid=l+(r-l)/2;
-        boolean b=posi(nums,threshold,mid);
-        if(b){
-            r=mid-1;
-        }
-        else{
-            l=mid+1;
-        }
+        int l=1;
+        int r=(int)Math.pow(10,6);
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            if(isposi(nums,threshold,mid)){
+                r=mid-1;
+            }
+            else{
+                l=mid+1;
+            }
         }
         return l;
     }
