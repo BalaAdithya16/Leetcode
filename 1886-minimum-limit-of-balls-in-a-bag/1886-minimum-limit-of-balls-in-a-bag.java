@@ -1,20 +1,17 @@
 class Solution {
-    public static boolean isposi(int[] nums,int max,int mid){
-         for(int i=0;i<nums.length;i++){
-            if(nums[i]>mid){
-                int temp=nums[i]/mid;
-                if(nums[i]%mid==0){
-                    max-=temp-1;
-                }
-                else{
-                    max-=temp;
-                }
+    public boolean isposi(int[] nums, int maxOperations,int n){
+        for(int i=0;i<nums.length;i++){
+            int temp=nums[i];
+            int a=nums[i]/n;
+            maxOperations-=a;
+            if(nums[i]%n==0){
+                maxOperations++;
             }
-            if(max<0){
-               return false;
-            }
-         }
-         return true;
+        }
+        if(maxOperations>=0){
+            return true;
+        }
+        return false;
     }
     public int minimumSize(int[] nums, int maxOperations) {
         int l=1;
