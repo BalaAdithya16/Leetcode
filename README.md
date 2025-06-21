@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BalaAdithya16/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/BalaAdithya16/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BalaAdithya16/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BalaAdithya16/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/BalaAdithya16/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/BalaAdithya16/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
