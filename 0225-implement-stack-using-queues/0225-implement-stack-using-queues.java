@@ -1,15 +1,14 @@
 class MyStack {
-   Queue <Integer> q;
+    Queue<Integer> q;
     public MyStack() {
         q=new LinkedList<>();
     }
     public void push(int x) {
-       q.add(x);
-       for(int i=0;i<q.size()-1;i++){
-        int a=q.poll();
-        q.add(a);
-       }
-       
+        q.add(x);
+        for(int i=0;i<q.size()-1;i++){
+            int a=q.poll();
+            q.add(a);
+        }
     }
     public int pop() {
         return q.poll();
