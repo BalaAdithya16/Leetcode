@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BalaAdithya16/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/BalaAdithya16/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BalaAdithya16/Leetcode/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/BalaAdithya16/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BalaAdithya16/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BalaAdithya16/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/BalaAdithya16/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BalaAdithya16/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BalaAdithya16/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/BalaAdithya16/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BalaAdithya16/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
