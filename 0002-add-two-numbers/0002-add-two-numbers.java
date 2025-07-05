@@ -28,13 +28,11 @@ class Solution {
             }
         carry=sum/10;
         sum=sum%10;
-        ListNode node=new ListNode(sum);
-        curry.next=node;
+        curry.next=new ListNode(sum);
         curry=curry.next;
         }
         if(carry==1){
-            ListNode node=new ListNode(1);
-            curry.next=node;
+            curry.next=new ListNode(1);;
             curry=curry.next;
         }
         return dummy.next;
