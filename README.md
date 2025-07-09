@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/BalaAdithya16/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/BalaAdithya16/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BalaAdithya16/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BalaAdithya16/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BalaAdithya16/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/BalaAdithya16/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/BalaAdithya16/Leetcode/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BalaAdithya16/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
