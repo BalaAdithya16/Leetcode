@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BalaAdithya16/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BalaAdithya16/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/BalaAdithya16/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BalaAdithya16/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/BalaAdithya16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/BalaAdithya16/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/BalaAdithya16/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BalaAdithya16/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/BalaAdithya16/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BalaAdithya16/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BalaAdithya16/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/BalaAdithya16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Trie
@@ -181,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/BalaAdithya16/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/BalaAdithya16/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BalaAdithya16/Leetcode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
