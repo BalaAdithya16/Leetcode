@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BalaAdithya16/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BalaAdithya16/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/BalaAdithya16/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BalaAdithya16/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/BalaAdithya16/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/BalaAdithya16/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/BalaAdithya16/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/BalaAdithya16/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/BalaAdithya16/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
@@ -159,9 +162,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BalaAdithya16/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/BalaAdithya16/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BalaAdithya16/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/BalaAdithya16/Leetcode/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BalaAdithya16/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
