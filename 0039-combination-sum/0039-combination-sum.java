@@ -4,6 +4,7 @@ class Solution {
             if(sum==k){
                 List<Integer>ne=new ArrayList(li);
                 ans.add(ne);
+                return;
             }
             return;
         }
