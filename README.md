@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/BalaAdithya16/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/BalaAdithya16/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 ## Trie
 |  |
 | ------- |
