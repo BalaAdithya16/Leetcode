@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/BalaAdithya16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BalaAdithya16/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BalaAdithya16/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3226-minimum-number-game](https://github.com/BalaAdithya16/Leetcode/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/BalaAdithya16/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [3226-minimum-number-game](https://github.com/BalaAdithya16/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/BalaAdithya16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3226-minimum-number-game](https://github.com/BalaAdithya16/Leetcode/tree/master/3226-minimum-number-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/BalaAdithya16/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0090-subsets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/BalaAdithya16/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
