@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/BalaAdithya16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/BalaAdithya16/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/BalaAdithya16/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BalaAdithya16/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/BalaAdithya16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/BalaAdithya16/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/BalaAdithya16/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/BalaAdithya16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BalaAdithya16/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BalaAdithya16/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
