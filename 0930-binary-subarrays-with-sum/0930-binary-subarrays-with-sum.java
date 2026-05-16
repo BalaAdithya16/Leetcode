@@ -1,27 +1,22 @@
 class Solution {
-    public static int sub(int[] num,int g){
-     if(g<0){
-         return 0;
-     }
+    public static int subcount(int[] nums,int g){
+        if(g<0){
+            return 0;
+        }
         int l=0;
+        int c=0;
         int temp=0;
-        int ans=0;
-        for(int r=0;r<num.length;r++){
-            if(num[r]==1){
-                temp+=1;
-            }
+        for(int r=0;r<nums.length;r++){
+            temp+=nums[r];
             while(temp>g){
-                if(num[l]==1){
-                temp--;
-                }
+                temp-=nums[l];
                 l++;
             }
-            ans+=r-l+1;
+            c+=r-l+1;
         }
-        return ans;
+        return c;
     }
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int A=sub(nums,goal)-sub(nums,goal-1);
-        return A;
+        return subcount(nums,goal)-subcount(nums,goal-1);
     }
 }
