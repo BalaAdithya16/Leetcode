@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/BalaAdithya16/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BalaAdithya16/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BalaAdithya16/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/BalaAdithya16/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/BalaAdithya16/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BalaAdithya16/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BalaAdithya16/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union Find
