@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/BalaAdithya16/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/BalaAdithya16/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/BalaAdithya16/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/BalaAdithya16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/BalaAdithya16/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/BalaAdithya16/Leetcode/tree/master/0455-assign-cookies) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/BalaAdithya16/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BalaAdithya16/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BalaAdithya16/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/BalaAdithya16/Leetcode/tree/master/0455-assign-cookies) |
 | [1675-magnetic-force-between-two-balls](https://github.com/BalaAdithya16/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3226-minimum-number-game](https://github.com/BalaAdithya16/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/BalaAdithya16/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/BalaAdithya16/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/BalaAdithya16/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/BalaAdithya16/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/BalaAdithya16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/BalaAdithya16/Leetcode/tree/master/0547-number-of-provinces) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/BalaAdithya16/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
