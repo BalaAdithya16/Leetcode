@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/BalaAdithya16/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/BalaAdithya16/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/BalaAdithya16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0860-lemonade-change](https://github.com/BalaAdithya16/Leetcode/tree/master/0860-lemonade-change) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/BalaAdithya16/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/BalaAdithya16/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BalaAdithya16/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/BalaAdithya16/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/BalaAdithya16/Leetcode/tree/master/0860-lemonade-change) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/BalaAdithya16/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
