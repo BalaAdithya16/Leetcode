@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BalaAdithya16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/BalaAdithya16/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/BalaAdithya16/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/BalaAdithya16/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/BalaAdithya16/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/BalaAdithya16/Leetcode/tree/master/0075-sort-colors) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BalaAdithya16/Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/BalaAdithya16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/BalaAdithya16/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/BalaAdithya16/Leetcode/tree/master/3226-minimum-number-game) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BalaAdithya16/Leetcode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BalaAdithya16/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
