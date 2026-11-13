@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BalaAdithya16/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BalaAdithya16/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/BalaAdithya16/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/BalaAdithya16/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/BalaAdithya16/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/BalaAdithya16/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/BalaAdithya16/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/BalaAdithya16/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/BalaAdithya16/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/BalaAdithya16/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/BalaAdithya16/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
