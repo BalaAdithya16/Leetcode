@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/BalaAdithya16/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/BalaAdithya16/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/BalaAdithya16/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BalaAdithya16/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/BalaAdithya16/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/BalaAdithya16/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BalaAdithya16/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/BalaAdithya16/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/BalaAdithya16/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/BalaAdithya16/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/BalaAdithya16/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/BalaAdithya16/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
